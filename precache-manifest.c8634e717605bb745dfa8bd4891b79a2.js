@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "073f2418e518f863bc2c49efac91eb2e",
+    "revision": "9c871dcb7907cf98b9462b83ba74741a",
     "url": "/solomonnamwanja/index.html"
   },
   {
-    "revision": "c8ac5b2790370136d308",
+    "revision": "83103253d72af8679d2c",
     "url": "/solomonnamwanja/static/css/main.f5d9f469.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solomonnamwanja/static/js/2.4361e544.chunk.js"
   },
   {
-    "revision": "c8ac5b2790370136d308",
-    "url": "/solomonnamwanja/static/js/main.72615529.chunk.js"
+    "revision": "83103253d72af8679d2c",
+    "url": "/solomonnamwanja/static/js/main.69c04ba7.chunk.js"
   },
   {
     "revision": "27766b170ba0f10d7186",
