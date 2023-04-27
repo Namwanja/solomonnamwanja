@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95fc9e018137240a1439f85811b86593",
+    "revision": "f877e82e1f85c8951a09096b1337d6e2",
     "url": "/solomonnamwanja/index.html"
   },
   {
-    "revision": "01a9eb5802b3e1daafbf",
+    "revision": "45ebf29d7f33995b6c6f",
     "url": "/solomonnamwanja/static/css/main.f5d9f469.chunk.css"
   },
   {
-    "revision": "52e0472cbc3ce96f4490",
-    "url": "/solomonnamwanja/static/js/2.4361e544.chunk.js"
+    "revision": "1552eff7e8cc818c9844",
+    "url": "/solomonnamwanja/static/js/2.19a4aa22.chunk.js"
   },
   {
-    "revision": "01a9eb5802b3e1daafbf",
-    "url": "/solomonnamwanja/static/js/main.84f9f1e5.chunk.js"
+    "revision": "45ebf29d7f33995b6c6f",
+    "url": "/solomonnamwanja/static/js/main.5859f56e.chunk.js"
   },
   {
     "revision": "27766b170ba0f10d7186",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
     "url": "/solomonnamwanja/static/media/animated_ashutosh.eaf02c2d.png"
+  },
+  {
+    "revision": "0e296a482a0dce05dfd3a1ca8490dbbd",
+    "url": "/solomonnamwanja/static/media/animated_contact.0e296a48.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
