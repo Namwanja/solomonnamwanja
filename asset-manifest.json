@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/solomonnamwanja/static/css/main.f5d9f469.chunk.css",
-    "main.js": "/solomonnamwanja/static/js/main.b4c1edd1.chunk.js",
-    "main.js.map": "/solomonnamwanja/static/js/main.b4c1edd1.chunk.js.map",
+    "main.js": "/solomonnamwanja/static/js/main.1d55cc89.chunk.js",
+    "main.js.map": "/solomonnamwanja/static/js/main.1d55cc89.chunk.js.map",
     "runtime-main.js": "/solomonnamwanja/static/js/runtime-main.0c0b0d84.js",
     "runtime-main.js.map": "/solomonnamwanja/static/js/runtime-main.0c0b0d84.js.map",
     "static/js/2.e3d3f80c.chunk.js": "/solomonnamwanja/static/js/2.e3d3f80c.chunk.js",
     "static/js/2.e3d3f80c.chunk.js.map": "/solomonnamwanja/static/js/2.e3d3f80c.chunk.js.map",
     "index.html": "/solomonnamwanja/index.html",
-    "precache-manifest.92d0baab1888821bd7b4a7b2df5d173a.js": "/solomonnamwanja/precache-manifest.92d0baab1888821bd7b4a7b2df5d173a.js",
+    "precache-manifest.3876cae071228de9c51e21892b606739.js": "/solomonnamwanja/precache-manifest.3876cae071228de9c51e21892b606739.js",
     "service-worker.js": "/solomonnamwanja/service-worker.js",
     "static/css/main.f5d9f469.chunk.css.map": "/solomonnamwanja/static/css/main.f5d9f469.chunk.css.map",
     "static/media/index.css": "/solomonnamwanja/static/media/Montserrat-Regular.ee653992.ttf",
@@ -60,6 +60,6 @@
     "static/js/runtime-main.0c0b0d84.js",
     "static/js/2.e3d3f80c.chunk.js",
     "static/css/main.f5d9f469.chunk.css",
-    "static/js/main.b4c1edd1.chunk.js"
+    "static/js/main.1d55cc89.chunk.js"
   ]
 }
