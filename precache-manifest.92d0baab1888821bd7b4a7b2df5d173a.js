@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bdfa6c4d35e3cf2353ece26fe4e2f3e",
+    "revision": "a7578dade3fdef9549e094be3ff56526",
     "url": "/solomonnamwanja/index.html"
   },
   {
-    "revision": "0e7bc2de0773547dd061",
+    "revision": "495e5d2b7e2fda8d7aed",
     "url": "/solomonnamwanja/static/css/main.f5d9f469.chunk.css"
   },
   {
-    "revision": "1552eff7e8cc818c9844",
-    "url": "/solomonnamwanja/static/js/2.19a4aa22.chunk.js"
+    "revision": "faa5daad22dbf1ed6f7f",
+    "url": "/solomonnamwanja/static/js/2.e3d3f80c.chunk.js"
   },
   {
-    "revision": "0e7bc2de0773547dd061",
-    "url": "/solomonnamwanja/static/js/main.36de32d0.chunk.js"
+    "revision": "495e5d2b7e2fda8d7aed",
+    "url": "/solomonnamwanja/static/js/main.b4c1edd1.chunk.js"
   },
   {
     "revision": "27766b170ba0f10d7186",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/solomonnamwanja/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "cd5ecc54378937b13b4072b96b67d02a",
+    "url": "/solomonnamwanja/static/media/Renu_logo.cd5ecc54.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -200,12 +204,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solomonnamwanja/static/media/iiitk_logo.571a8584.png"
   },
   {
+    "revision": "25ea38a189aa8985df952ae04ae82593",
+    "url": "/solomonnamwanja/static/media/innovex.25ea38a1.png"
+  },
+  {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/solomonnamwanja/static/media/intel_logo.29152cf7.jpg"
   },
   {
     "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
-    "url": "/solomonnamwanja/static/media/iu_logo.60ed0bd3.png"
+    "url": "/solomonnamwanja/static/media/iu_logo-1.60ed0bd3.png"
+  },
+  {
+    "revision": "6ef92f59fba3a9585659e794f97e974f",
+    "url": "/solomonnamwanja/static/media/iu_logo.6ef92f59.png"
   },
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
@@ -218,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/solomonnamwanja/static/media/manOnTable.83ac24fb.svg"
+  },
+  {
+    "revision": "45dfeee63eb505a365406608c1ab90b4",
+    "url": "/solomonnamwanja/static/media/marconi.45dfeee6.png"
   },
   {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
